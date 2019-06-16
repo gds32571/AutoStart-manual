@@ -8,4 +8,6 @@ The schematic.pdf and board.pdf show a potential commercially made version.
 
 PCB-topview.png shows a OSH Park rendering of the pcb.
 
-proto-board.jpg shows a picture of the prototype disconnector/autostart board. I've built and installed 3 of these on my network.
+proto-board.jpg shows a picture of the prototype disconnector/autostart board.
+
+I've built and installed 3 of these on my network.
