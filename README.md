@@ -8,7 +8,10 @@ A program which runs on an ATTiny45 to electrically "push" the start button on a
 Show a potential commercially made version.
 
 ### PCB-topview.png
-Shows a OSH Park rendering of the pcb.
+Shows a OSH Park rendering of the pcb top view.
+
+### PCB-bottomview.png
+Shows a OSH Park rendering of the pcb bottom view.
 
 ### proto-board.jpg
 Shows a picture of the prototype disconnector/autostart board.
