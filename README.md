@@ -19,4 +19,6 @@ Shows a picture of the prototype disconnector/autostart board.
 I've built and installed 3 of these on my network.
 
 As of 22 Feb 2021, I built one of the Oshpark boards and implented it.  Works like a champ
-!
+Here is a picture:
+
+<img src = "./P2230034.JPG">
